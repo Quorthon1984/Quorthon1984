@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oversetter du virkelig det?
 
 <!--
 **Quorthon1984/Quorthon1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
